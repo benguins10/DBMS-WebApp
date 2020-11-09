@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prakhar0912/DBMSJComp.git"
+    "url": "git+https://github.com/benguins10/DBMSJwebapp.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/prakhar0912/DBMSJComp/issues"
+    "url": "https://github.com/benguins10/DBMSJwebapp/issues"
   },
-  "homepage": "https://github.com/prakhar0912/DBMSJComp#readme",
+  "homepage": "https://github.com/benguins10/DBMSJwebapp#readme",
   "dependencies": {
     "@hapi/joi": "^17.1.1",
     "bcryptjs": "^2.4.3",
